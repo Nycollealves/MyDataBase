@@ -1,2 +1,2 @@
-# MyDataBase
-Aprendendo BD e SQL
+# MyDataBase - Aulas de Banco de Dados
+Aprendendo BD e SQL com professor Bruno Zolotareff
